@@ -1,6 +1,6 @@
 # Simple Tailwind CSS Starter
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is an extremley simple setup to develop Tailwind projects.
 
 ## Usage
 
@@ -13,7 +13,7 @@ npm install
 Run Tailwind CLI in watch mode
 
 ```
-npm run dev
+npm run watch
 ```
 
 You can use tailwind classes in any .html files in the root directory
